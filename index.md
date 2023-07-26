@@ -112,7 +112,6 @@ __Anti Eviction Mapping Project (AEMP)__
 __Allies People to People__
 
 - Treasurer and Board Member
-```
 
 
 
