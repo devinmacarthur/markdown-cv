@@ -37,11 +37,6 @@ __Toulan School of Urban Studies and Planning (USP), Portland State University__
 - B.S. Community Development
 
 
-## Awards
-
-N/A
-
-
 ## Publications
 
 ### Journals
@@ -51,10 +46,6 @@ Bates, Lisa K., Aaron Golub, Devin Macarthur, and Seyoung Sung. "Planning Ahead 
 
 `2017`
 Bates, Lisa K., Aaron Golub, Devin Macarthur, and Seyoung Sung. "New Transit Developments: A Double-Edged Sword." Project Brief NITC-RR-912. Portland, OR: Transportation Research and Education Center (TREC), 2017.
-
-### Patents
-
-N/A
 
 
 ## Occupation
