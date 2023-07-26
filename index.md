@@ -3,7 +3,7 @@ layout: cv
 title: Devin MacArthur's CV
 ---
 # Devin MacArthur
-Physicist, Mathematician, Cambridge professor.
+Adjunct Instructor, Research Analyst, Portland Community College & Portland State University.
 
 <div id="webaddress">
 <a href="j.devin.macarthur@gmail.com">j.devin.macarthur@gmail.com</a>
@@ -13,74 +13,115 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Adjunct Instructor, Research Analyst
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Urban Studies, Community Development, Geographic Information Systems (GIS)
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Evictions, Displacement, Public Transport, Community Development, Geographic Information Systems
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 (Expected)`
+__Toulan School of Urban Studies and Planning (USP), Portland State University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- M.S. Urban Studies
 
-- Sizar
+`2015`
+__Toulan School of Urban Studies and Planning (USP), Portland State University__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- B.S. Community Development
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+N/A
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2017`
+Bates, Lisa K., Aaron Golub, Devin Macarthur, and Seyoung Sung. "Planning Ahead for Livable Communities Along the Powell-Division BRT: Neighborhood Conditions and Change." NITC-RR-912. Portland, OR: Transportation Research and Education Center (TREC), 2017.
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`2017`
+Bates, Lisa K., Aaron Golub, Devin Macarthur, and Seyoung Sung. "New Transit Developments: A Double-Edged Sword." Project Brief NITC-RR-912. Portland, OR: Transportation Research and Education Center (TREC), 2017.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+N/A
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2023`
+__Portland Community College__, Geography Department
 
-- Warden
-- Minted coins
+- Part-time Faculty - GIS Instructor
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2022`
+__Evicted in Oregon__, Portland State University
+
+- Research Assistant II
+
+`2021`
+__Oregon Evictions Displacement Research__, Portland State University
+
+- Graduate Research Assistant
+
+`2021`
+__[Parking Reform Network](https://parkingreform.org)__, Crowdsourced Parking Policy Mapping
+
+- Consultant / Developer
+
+`2020`
+__Bi-objective Optimization for Battery Electric Bus Deployment Considering Cost and Environmental Equity__, National Institute for Transportation and Communities (NITC)
+
+- Graduate Research Assistant
+
+`2019`
+__Diversity, Equity, and Inclusion Committee, Urban Studies and Planning__, Portland State University
+
+- Administrative Assistant
+
+`2019`
+__PSU College of Urban and Public Affairs__, accreditation oversight for the Masters of Urban and Regional Planning program
+
+- Administrative Assistant
+
+`2018`
+__USP 301: Intro to Community Development__
+
+- Grader
+
+`2018`
+__Comparing Electoral Politics Between the US and Britain__, Portland State University (PSU)
+
+- Graduate Research Assistant
+
+`2015-2017`
+__National Institute for Transportation and Communities__, Transportation Research and Education Center, Portland Bureau of Planning and Sustainability, Portland State University (PSU)
+
+- Graduate Research Assistant
+
+
+### Volunteer Work
+
+`2023`
+__Anti Eviction Mapping Project (AEMP)__
+
+- Data Pipeline Engineer and Systems Specialist
+
+`2019-2022`
+__Allies People to People__
+
+- Treasurer and Board Member
+```
 
 
 
